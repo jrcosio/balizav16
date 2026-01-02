@@ -5,6 +5,8 @@ Sistema de Visualización de Balizas V16
 Visualiza incidencias de tráfico de la DGT en un mapa interactivo
 y genera estadísticas por provincia.
 
+Por JR Blanco
+
 Uso:
     python main.py              # Descarga datos en tiempo real
     python main.py --local      # Usa archivo local datex2_v36.xml
